@@ -799,3 +799,8 @@
 - Place: Delhi, India
 - Bio: - Undergraduate
 - Github: [neo700](https://github.com/neo700)
+
+#### Name: [Pritesh Tripathi](https://github.com/priteshtripathi7)
+- Place: Surat, Gujarat, India
+- Bio: Computer Engineering student?
+- GitHub: [priteshtripathi7](https://github.com/priteshtripathi7)
